@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/fernandopizarrodw/qr-code-component)
-- Live Site URL: [GitHub Pages](https://fernandopizarrodw.github.io/qr-code-component/)
+- Solution URL: [GitHub Repo](https://github.com/fernandopizarrodw/QR-Code-Component-Fronted-Mentor)
+- Live Site URL: [GitHub Pages](https://fernandopizarrodw.github.io/QR-Code-Component-Fronted-Mentor/)
 
 ## My process
 
